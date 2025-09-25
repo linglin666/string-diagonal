@@ -2,7 +2,9 @@
 
 # to run the program use command below.
 
+```
 node string_diagonal.js
+```
 
 # It should have a result something like below.
 
